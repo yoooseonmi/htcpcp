@@ -1,0 +1,12 @@
+.idea/
+.gradle/
+build/
+local.properties
+*.jks
+Pods/
+xcuserdata/
+DerivedData/
+application-local.yml
+.env
+out/
+*.iml
